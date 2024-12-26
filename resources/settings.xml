@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="源">
+        <setting id="source" type="text" label="资源站链接" default="天空资源$https://tiankongzy.com#樱花资源$https://m3u8.apiyhzy.com"/>
+    </category>
+</settings>
